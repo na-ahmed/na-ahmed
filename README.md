@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a data engineer seeking new opportunities<br>- 📚 I'm currently learning advanced SQL and AWS<br>- ⚡ In my free time I play FPS games</p>
+<p align="left">- 🔭 Seeking data engineering opportunities<br>- 📚 I'm currently learning advanced SQL and AWS<br>- ⚡ In my free time I play FPS games</p>
 
 ###
 
